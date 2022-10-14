@@ -1,0 +1,1 @@
+from .specialchar import SpecialChar
